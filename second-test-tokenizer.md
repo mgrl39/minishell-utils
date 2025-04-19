@@ -150,7 +150,7 @@ echo a""b''c
 ```
 
 ## Complex Command Lines
-
+NONOOON THIS PART IS NOT CORRECT THE `2>&1` I THINK BUT I KEEP IT BECAUSE I WANTTTT (MAYBE LAATER IS NECESSARY)
 ```bash
 echo "one two" three 'four five' | grep "something" > "file name" 2>&1
 # Should tokenize as:
