@@ -28,3 +28,8 @@ test@cbr2s5:~$ << a << b << c
 > c
 test@cbr2s5:~$
 ```
+```bash
+test@cbr2s5:~$ <<\:
+> :
+test@cbr2s5:~$
+```
